@@ -1,0 +1,30 @@
+fastapi
+uvicorn[standard]
+
+# Database
+sqlalchemy
+pymysql
+
+# Authentication
+python-jose
+passlib[bcrypt]
+
+# Environment variables
+python-dotenv
+
+# Web scraping
+httpx
+beautifulsoup4
+lxml
+
+# Embeddings & Vector DB
+chromadb
+numpy
+
+# transformer
+sentence-transformers
+
+# pydantic extensions
+pydantic[email]
+
+bcrypt==3.2.2
