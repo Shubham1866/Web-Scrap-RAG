@@ -1,4 +1,15 @@
-# Web-Scrap-RAG
+## 🎯 Problem Statement
+The Challenge:
+
+Information scattered across websites, PDFs, and documents
+Users manually search multiple sources to find answers
+Traditional keyword search lacks semantic understanding
+No unified platform to combine web content with uploaded documents
+
+
+The Solution - 
+
+#Web-Scrap-RAG
 
 A powerful web scraping and Retrieval-Augmented Generation (RAG) application built with FastAPI, LLMs, and vector databases.
 
