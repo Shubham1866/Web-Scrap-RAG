@@ -9,7 +9,7 @@ No unified platform to combine web content with uploaded documents
 
 The Solution - 
 
-#Web-Scrap-RAG
+# Web-Scrap-RAG
 
 A powerful web scraping and Retrieval-Augmented Generation (RAG) application built with FastAPI, LLMs, and vector databases.
 
